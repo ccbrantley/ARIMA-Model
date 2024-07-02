@@ -1,4 +1,5 @@
 """
+Created with assistance from ChatGPT
 ARIMA (AutoRegressive Integrated Moving Average)
 Time series forecasting
 Three Components:
